@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DSA Journey 🚀
 
 This is my personal repo for learning Data Structures and Algorithms as a Second-year CS student. I'm learning it in both **Java** and **C++** side by side, mostly because my college covers one and I want to be comfortable in the other too.
@@ -48,4 +47,4 @@ Some solutions are clean, some are brute-force first attempts I haven't optimize
 
 *Started: 2026 — Second year, still figuring things out.*
 
->>>>>>> 6389b41984f053145ecf0579284e71add1f872f2
+
